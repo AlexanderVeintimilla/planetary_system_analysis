@@ -227,4 +227,5 @@ venv/
 data/
 __pycache__/
 .ipynb_checkpoints/
+/extra.txt
 
